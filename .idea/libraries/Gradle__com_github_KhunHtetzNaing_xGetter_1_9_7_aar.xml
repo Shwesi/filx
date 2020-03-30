@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.KhunHtetzNaing:xGetter:1.9.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xGetter-1.9.7.aar/14cb4b5cd6371d001e44ba24b9f70d5f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/xGetter-1.9.7.aar/14cb4b5cd6371d001e44ba24b9f70d5f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KhunHtetzNaing/xGetter/1.9.7/268f12e49a39f436c41f8c4fbc21f1df9e313600/xGetter-1.9.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

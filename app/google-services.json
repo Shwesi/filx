@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "713627083944",
+    "firebase_url": "https://all-in-one-e8418.firebaseio.com",
+    "project_id": "all-in-one-e8418",
+    "storage_bucket": "all-in-one-e8418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713627083944:android:2308c3165b67c61b1fce9d",
+        "android_client_info": {
+          "package_name": "com.virmana.flixa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713627083944-ae8k072aj4g35olai7vsphdkf08962ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virmana.flixa",
+            "certificate_hash": "841f4c085535145c3a74968e32d1d043996f8e0d"
+          }
+        },
+        {
+          "client_id": "713627083944-9ufo86fora8sc00tnipl1r9te9ve9uab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.virmana.flixa",
+            "certificate_hash": "6ad77b521693759f5d604da19bf1010528f3b233"
+          }
+        },
+        {
+          "client_id": "713627083944-frqdc76440uso241kv7omk97eg38j6vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJdeHGOx9bleoakxiHOStf5_CptCfKDjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713627083944-frqdc76440uso241kv7omk97eg38j6vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
